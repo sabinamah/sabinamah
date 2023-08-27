@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ideas in Bioinformatics
 - 💬 Ask me about nothing
 - 📫 How to reach me: not available
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm boring
