@@ -1,5 +1,9 @@
-# 💫 About Me:
-### Hi there 👋<br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on data science<br>- 🌱 I’m currently learning machine learnig<br>- 👯 I’m looking to collaborate on use of machine learninf in Bioinformatics<br>- 🤔 I’m looking for help with ideas in Bioinformatics<br>- 💬 Ask me about nothing<br>- 📫 How to reach me: not available<br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact: I'm boring<br>
+**🔭 I’m working on data science.
+
+🌱 I’m learning machine learning.
+👯 I’m interested in collaborating on machine learning applications in bioinformatics.
+🤔 I’m seeking help with bioinformatics project ideas.
+⚡ Fun fact: I’m passionate about solving biological problems**
 
 
 ## 🌐 Socials:
