@@ -1,9 +1,5 @@
-**🔭 I’m working on data science.
-
-🌱 I’m learning machine learning.
-👯 I’m interested in collaborating on machine learning applications in bioinformatics.
-🤔 I’m seeking help with bioinformatics project ideas.
-⚡ Fun fact: I’m passionate about solving biological problems**
+# 💫 About Me:
+### Hi there 👋- 🔭 I’m working on data science<br>- 🌱 I’m learning machine learning<br>- 👯 I’m interested in collaborating on machine learning applications in bioinformatics<br>- 🤔 I’m seeking help with bioinformatics project ideas<br>-  ⚡ Fun fact: II’m passionate about solving biological problems<br>
 
 
 ## 🌐 Socials:
